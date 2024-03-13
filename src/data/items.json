@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name" : "Baby toys kit",
+    "price": 38,
+    "imgUrl": "/images/babyToy.jpg"
+  },
+  {
+    "id": "2",
+    "name" : "Pink-rainbow Bear",
+    "price": 12,
+    "imgUrl": "/images/bearPink.jpg"
+  },
+  {
+    "id": "3",
+    "name" : "Mario",
+    "price": 23,
+    "imgUrl": "/images/Mario.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Play-Doh Toy Blender Set",
+    "price": 9.97,
+    "imgUrl": "/images/Play_Doh.jpg"
+  },
+  {
+    "id": "5",
+    "name": "KINGYAO Squishies Squishy Toy 24pcs",
+    "price": 9.99,
+    "imgUrl": "/images/squshies.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Gemmicc Magnetic Tiles, 126 PCS + Storage Case + 2 Figures,",
+    "price": 54.99,
+    "imgUrl": "/images/Mag_tiles.jpg"
+  }
+]
